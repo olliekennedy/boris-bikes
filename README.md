@@ -5,5 +5,5 @@ This is a program, the function of which I currently have no idea
 ## How to use ##
 
 ```shell
-Who knows?
+Who knows eh?
 ```
